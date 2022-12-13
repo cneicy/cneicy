@@ -1,5 +1,7 @@
 ### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=cneicy)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cneicy&layout=compact&theme=blueberry&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🌱 I’m a student in Hebei.
 - 👯 I’m looking to collaborate on Game Dev.
