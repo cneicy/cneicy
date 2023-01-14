@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![GitHub stats](https://github-readme-stats-cneicy.vercel.app/api?username=cneicy&show_icons=true&theme=tokyonight)](https://github.com/cneicy/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-cneicy.vercel.app/api/top-langs/?username=cneicy&layout=compact&theme=blueberry&card_width=445)](https://github.com/cneicy/github-readme-stats)
+[![Top Langs](https://github-readme-stats-cneicy.vercel.app/api/top-langs/?username=cneicy&layout=compact&theme=blueberry&hide=html&card_width=445)](https://github.com/cneicy/github-readme-stats)
 
 - 🌱 I’m a student in Hebei.
 - 👯 I’m looking to collaborate on Game Dev.
