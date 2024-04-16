@@ -15,5 +15,7 @@ I want to use games to write the stories I want to write, but a game is still a 
 
 I'm grateful to the people who have helped me on my journey, and I hope I can help you too.
 
+E-Mail: im@crash.work
+BLOG: https://cneicy.github.io/
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GMEV5DFNT4YVXEXA5G6W998P/green.svg)](https://badges.toozhao.com/stats/01GMEV5DFNT4YVXEXA5G6W998P "Get your own page views count badge on badges.toozhao.com")
