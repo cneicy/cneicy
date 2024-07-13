@@ -5,7 +5,7 @@
 
 Hello, you can call me Eicy or 沙.
 
-Although I don't know where you're from. But I'm glad you're interested in me.
+Although I don't know where you're from, I'm glad you're interested in me.
 
 I'm trying to become an indie game developer or game designer, although having a company that makes games to make money may make me seem less "indie" in the future.
 
