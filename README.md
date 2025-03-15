@@ -11,12 +11,13 @@ I'm trying to become an indie game developer or game designer, although having a
 
 I make games to go and express my ideas, and I also treat games as a form of artistic expression.
 
-I want to use games to write the stories I want to write, but a game is still a game, so fun is just as important.
+I want to use games to write the stories I want to write, but u no game is still game, so fun is just as important.
 
 I'm grateful to the people who have helped me on my journey, and I hope I can help you too.
 
 E-Mail: im@crash.work
-BLOG: https://cneicy.github.io/
+
+BLOG: https://shrinken.pw/
 
 [![Page Views Count](https://badges.toozhao.com/badges/01GMEV5DFNT4YVXEXA5G6W998P/green.svg)](https://badges.toozhao.com/stats/01GMEV5DFNT4YVXEXA5G6W998P "Get your own page views count badge on badges.toozhao.com")
 
